@@ -8,6 +8,5 @@
     },
     "url": "https://gajim.org/downloads/1.3/Gajim-1.3.0-64bit-1.exe",
     "hash": "md5:1E7AC20A88592B95EA226C45A63F7398",
-    "innosetup": true,
     "bin": "bin/Gajim.exe"
 }
