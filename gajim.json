@@ -23,11 +23,6 @@
     		"file": "uninstall.exe",
     		"args": "/S"
   	},
-	"env_set": {
-		"GAJIM_HOME": "$dir\\bin",
-		"GAJIM_EXE": "Gajim.exe",
-		"GAJIM": "$dir\\bin\\Gajim.exe"
-	},
 	"bin": [
 		[ "bin\\Gajim.exe", "Gajim" ]
 	]
