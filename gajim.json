@@ -4,16 +4,16 @@
     "homepage": "https://gajim.org/",
     "architecture": {
         "64bit": {
-            "url": "https://gajim.org/downloads/1.3/Gajim-1.3.1-64bit-1.exe",
+            "url": "https://gajim.org/downloads/1.3/Gajim-1.3.1-64bit-1.exe#/gajim-setup.exe",
             "hash": "md5:000FAD1E8334AE94A3B605DFC8F5A1DE"
         },
         "32bit": {
-            "url": "https://gajim.org/downloads/1.3/Gajim-1.3.1-32bit-1.exe",
+            "url": "https://gajim.org/downloads/1.3/Gajim-1.3.1-32bit-1.exe#/gajim-setup.exe",
             "hash": "md5:3E501810BF47BC0751794CE61CF5D1B0"
         }
     },
 	"installer": {
-    	"file": "Gajim-$version-$architecture-1.exe",
+    	"file": "gajim-setup.exe",
     	"args": [
 	      		"/S",
 	      		"/D=$dir"
