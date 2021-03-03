@@ -28,6 +28,6 @@
 	],
 	"checkver": {
 		"url": "http://gajim.org/download/",
-		"re": "<span class=""label label-primary"">\\s*"([^\"]+)\"
+		"re": "<span class=label label-primary>\\s*"([^\"]+)\"
 	}
 }
