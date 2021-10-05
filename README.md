@@ -1,2 +1,3 @@
 # scoop-mole
-Scoop bucket for my apps
+Scoop bucket for my apps:
+Gajim
