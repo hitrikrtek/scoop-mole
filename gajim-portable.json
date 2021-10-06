@@ -22,5 +22,9 @@
   	},
 	"bin": [
 		[ "bin\\Gajim.exe", "Gajim" ]
-	]
+	],
+    "shortcuts": [
+        [
+            "bin\\Gajim.exe", "Gajim-Portable" ]
+    ]
 }
