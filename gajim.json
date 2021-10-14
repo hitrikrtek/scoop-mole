@@ -1,15 +1,15 @@
 {
-    "version": "1.3.2",
+    "version": "1.3.3",
     "description": "A fully-featured XMPP client",
     "homepage": "https://gajim.org/",
     "architecture": {
         "64bit": {
-            "url": "https://gajim.org/downloads/1.3/Gajim-1.3.2-64bit-1.exe#/gajim-setup.exe",
-            "hash": "md5:16FC128FD360A1780701890047788B10"
+            "url": "https://gajim.org/downloads/1.3/Gajim-1.3.3-64bit-1.exe#/gajim-setup.exe",
+            "hash": "md5:7E7C740E36F7911220F0978945C2485D"
         },
         "32bit": {
-            "url": "https://gajim.org/downloads/1.3/Gajim-1.3.2-32bit-1.exe#/gajim-setup.exe",
-            "hash": "md5:C70D859EF38F086661F1934A4C044A97"
+            "url": "https://gajim.org/downloads/1.3/Gajim-1.3.3-32bit-1.exe#/gajim-setup.exe",
+            "hash": "md5:A651BE8C4D0AC69DE2173C93F682E2BE"
         }
     },
 	"installer": {
